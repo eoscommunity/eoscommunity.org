@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1440 217" style="enable-background:new 0 0 1440 217;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.6;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#306090;}
+	.st2{filter:url(#Adobe_OpacityMaskFilter);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st4{opacity:0.5;mask:url(#b_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#306090;enable-background:new    ;}
+</style>
+<g class="st0">
+	<path id="a_1_" class="st1" d="M-23.3,245.7c421.5,0,1489,176.1,1489,39.2s478.8-248,57.3-248c-198.7,0-468.6,3.6-720-11.2
+		C521.3,9.1,256.9-13.8,60,11.4C-312.7,59.1-444.8,245.7-23.3,245.7L-23.3,245.7z"/>
+</g>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="43" y="65.9" width="1402.5" height="375.1">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="43" y="65.9" width="1402.5" height="375.1" id="b_1_">
+	<g class="st2">
+		<path id="a_2_" class="st3" d="M261.7,286.7c421.5,0,1489,176.1,1489,39.2s478.8-248,57.3-248c-198.7,0-468.6,3.6-720-11.2
+			C806.3,50.1,541.9,27.2,345,52.4C-27.7,100.1-159.8,286.7,261.7,286.7L261.7,286.7z"/>
+	</g>
+</mask>
+<path class="st4" d="M160.7,346.7c421.5,0,972.7,179.8,972.7,42.9s579.9-255.2,158.5-255.2s-707-147-707-10.2
+	C584.9,261.1-260.8,346.7,160.7,346.7L160.7,346.7z"/>
+</svg>

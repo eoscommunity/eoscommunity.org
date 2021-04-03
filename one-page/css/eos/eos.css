@@ -1,0 +1,144 @@
+/* CSS Document */
+/* HTML Elements */
+html {
+  scroll-behavior: smooth;
+}
+section eospan {
+  position: absolute;
+  top: -60px;
+}
+.eos_color {
+  color: #306090;
+}
+.eos_message {
+  background: url('../../images/eos/dl_suit_full.png') no-repeat center center;
+  background-size: cover;
+  padding: 100px 0;
+}
+@media (max-width: 991.98px) {
+  .eos_message {
+    background: url('../../images/eos/blank.jpg') no-repeat center center;
+  }
+}
+.eos_pt-5 {
+  padding-top: 2rem !important;
+}
+.eos_centerbutton {
+  /*position: absolute;*/
+  top: 50%;
+  left: 45%;
+  margin-top: 40px;
+}
+.eos_btntopm {
+  margin-top: 30px;
+}
+.eos_centerfaq {
+  position: relative;
+  left: 10%;
+}
+@media (max-width: 991.98px) {
+  .eos_centerfaq {
+    left: 1%;
+  }
+  .eos_centerbutton {
+   margin: 0;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+ margin-top: 60px;
+  }
+  .eos_centerexch {
+    top: 50%;
+    left: 0%;
+    margin-top: 40px;
+	margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+.eos_centerimg {
+  position: relative;
+  left: 0%;
+}
+.eos_centermargin {
+  margin-left: auto;
+  margin-right: auto;
+}
+.eos_centerblock {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.eos_centertext {
+  padding: 40px 0;
+  text-align: center;
+}
+.eos_centertext70 {
+  padding: 70px 0;
+  text-align: center;
+}
+.eos_imght {
+  max-height: 40px;
+}
+.eos_imght_80 {
+  max-height: 80px;
+}
+.eos_appdropshadow {
+  filter: drop-shadow(2px 2px 2px #999);
+}
+.eos_appdropshadow1 {
+  filter: drop-shadow(1px 1px 1px #666);
+}
+.eos_sliderds {
+  filter: drop-shadow(1px 1px 0px #fff);
+}
+.eos_sliderwh {
+  color: #fff;
+}
+.eos_smallitalic {
+  color: #BB0000;
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-size: 9px;
+}
+.eos_40pad {
+  padding: 40px;
+}
+.eos_20pad {
+  padding: 20px 5px 20px 5px;
+}
+.eos_20margin {
+  margin: 20;
+}
+.eos_80toppad {
+  padding: 80px 40px 40px 40px;
+}
+.eos_10padleftright {
+  padding: 10px;
+}
+.eos_divider {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow: hidden;
+  margin: 3rem auto 0.1rem auto;
+  color: #E5E5E5;
+  width: 100%;
+}
+.eos_dividermain {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  overflow: hidden;
+  margin: 3rem auto 3rem auto;
+  color: #E5E5E5;
+  width: 100%;
+}
+.eos_divider.divider-center::before {
+  display: block;
+}
+.eos_vertaligntop {
+  vertical-align: top;
+}
