@@ -5,6 +5,7 @@
         <title>EOSCommunity.org - 404</title>
         <script>
             const path = location.pathname;
+            console.log(path)
             if (path.startsWith('/c/') || path.startsWith('/t/') || path.startsWith('/u/')) {
                 const url = `https://forums.eoscommunity.org${path}`;
                 window.location = url;
