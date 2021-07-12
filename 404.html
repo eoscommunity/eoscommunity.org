@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>EOSCommunity.org - 404</title>
+        <script>
+            const path = location.pathname;
+            if (path.startsWith('/c/') || path.startsWith('/t/') || path.startsWith('/u/')) {
+                const url = `https://forums.eoscommunity.org${path}`;
+                window.location = url;
+            }
+        </script>
+    </head>
+    <body>
+        <h1>404 - Page not found</h1>
+    </body>
+</html>
